@@ -1,0 +1,5 @@
+app/Database.class
+app/StudentDAO.class
+app/Main.class
+app/CourseDAO.class
+app/EnrollmentDAO.class
